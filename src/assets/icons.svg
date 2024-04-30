@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="circle" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="10" cy="9.69324" r="8.84839" stroke="#434141" stroke-width="1.5"/>
+  </symbol>
+
+  <symbol id="rectangle"  width="18" height="19" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 18.6932V0.693237H18V18.6932H0ZM2 16.6932H16V2.69324H2V16.6932Z" fill="#434141"/>
+  </symbol>
+
+  <symbol id="line"  width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0.0868387 13.0075L13.0799 0.633087L14.0212 1.53006L14.9132 2.37903L1.92008 14.7534L0.0868387 13.0075Z" fill="#434141"/>
+  </symbol>
+</svg>

@@ -1,0 +1,35 @@
+:host {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+  padding: 0 20px;
+  border-bottom: 1px solid #e0e0e0;
+
+  .tools {
+    display: flex;
+    gap: 10px;
+
+    .tool {
+      cursor: pointer;
+    }
+  }
+
+  .colors {
+    display: flex;
+    gap: 5px;
+
+    .color {
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      border: none;
+      cursor: pointer;
+    }
+  }
+
+  .icon {
+    width: 24px;
+    height: 24px;
+    border: 1px solid red;
+  }
+}
