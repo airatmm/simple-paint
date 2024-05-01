@@ -13,6 +13,7 @@ import { CanvasService } from '../../services/canvas.service';
 import { AsyncPipe } from '@angular/common';
 import { DrawingStrategyFactory } from '../../services/factory/drawing-strategy-factory';
 import { LineDrawingStrategy } from '../../services/drawing-strategies/line-drawing-strategy';
+import { DrawingStrategy } from '../../services/drawing-strategies/drawing-strategy';
 
 @Component({
   selector: 'app-canvas',
@@ -27,7 +28,7 @@ export class CanvasComponent implements AfterViewInit, OnDestroy {
   private destroy$ = new Subject<void>();
   public readonly facade = inject(CanvasFacade);
   private readonly canvasService = inject(CanvasService);
-  drawingStrategy: any = new LineDrawingStrategy();
+  drawingStrategy: DrawingStrategy = new LineDrawingStrategy();
   currentColor = '#000000';
 
   ngAfterViewInit(): void {
