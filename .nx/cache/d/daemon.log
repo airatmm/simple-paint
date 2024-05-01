@@ -9565,3 +9565,61 @@
 [NX Daemon Server] - 2024-05-01T06:25:46.358Z - [REQUEST]: src/app/services/canvas.service.ts,src/app/components/canvas/canvas.component.ts,src/app/components/toolbar/toolbar.component.ts,src/app/app.component.scss
 [NX Daemon Server] - 2024-05-01T06:25:46.358Z - [REQUEST]: src/app/services/canvas.services.ts
 [NX Daemon Server] - 2024-05-01T06:25:46.384Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.1431249976158142ms
+[NX Daemon Server] - 2024-05-01T09:28:57.990Z - Started listening on: /var/folders/_4/70f4g6hn51j2smkvsvr5y6p00000gn/T/5e2feb0a63e7e390bec4/d.sock
+[NX Daemon Server] - 2024-05-01T09:28:57.992Z - [WATCHER]: Subscribed to changes within: /Users/airat/WebstormProjects/CRYXXEN/simple-paint (native)
+[NX Daemon Server] - 2024-05-01T09:28:57.997Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-05-01T09:28:57.998Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-05-01T09:28:58.000Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-05-01T09:28:58.001Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-05-01T09:28:58.043Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-05-01T09:28:58.044Z - [REQUEST]: 
+[NX Daemon Server] - 2024-05-01T09:28:58.044Z - [REQUEST]: 
+[NX Daemon Server] - 2024-05-01T09:28:58.082Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-05-01T09:28:58.083Z - Time taken for 'total for creating and serializing project graph' 80.42775002121925ms
+[NX Daemon Server] - 2024-05-01T09:28:58.100Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-05-01T09:28:58.101Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 80. Response time: 20.
+[NX Daemon Server] - 2024-05-01T09:28:58.106Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-05-01T09:28:58.108Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-05-01T09:28:58.109Z - Time taken for 'total for creating and serializing project graph' 1.7042080163955688ms
+[NX Daemon Server] - 2024-05-01T09:28:58.112Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-05-01T09:28:58.112Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2. Response time: 4.
+[NX Daemon Server] - 2024-05-01T09:28:58.117Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-05-01T09:30:25.977Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T09:31:05.013Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T09:31:05.018Z - [WATCHER]: 0 file(s) created or restored, 0 file(s) modified, 3 file(s) deleted
+[NX Daemon Server] - 2024-05-01T09:31:05.019Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-05-01T09:31:05.019Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-05-01T09:31:05.019Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-05-01T09:31:05.019Z - Time taken for 'changed-projects' 0.17091700434684753ms
+[NX Daemon Server] - 2024-05-01T09:31:05.121Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-05-01T09:31:05.121Z - [REQUEST]: 
+[NX Daemon Server] - 2024-05-01T09:31:05.121Z - [REQUEST]: .vscode/launch.json,.vscode/extensions.json,.vscode/tasks.json
+[NX Daemon Server] - 2024-05-01T09:31:05.146Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.29866600036621094ms
+[NX Daemon Server] - 2024-05-01T09:31:47.568Z - [WATCHER]: .gitignore was modified
+[NX Daemon Server] - 2024-05-01T09:31:47.569Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-05-01T09:31:47.569Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-05-01T09:31:47.569Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-05-01T09:31:47.569Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T09:31:47.569Z - Time taken for 'changed-projects' 0.07870897650718689ms
+[NX Daemon Server] - 2024-05-01T09:31:47.569Z - [WATCHER]: Stopping the watcher for /Users/airat/WebstormProjects/CRYXXEN/simple-paint (sources)
+[NX Daemon Server] - 2024-05-01T09:31:47.569Z - [WATCHER]: Stopping the watcher for /Users/airat/WebstormProjects/CRYXXEN/simple-paint (outputs)
+[NX Daemon Server] - 2024-05-01T09:31:47.570Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
+[NX Daemon Server] - 2024-05-01T09:31:48.768Z - Started listening on: /var/folders/_4/70f4g6hn51j2smkvsvr5y6p00000gn/T/5e2feb0a63e7e390bec4/d.sock
+[NX Daemon Server] - 2024-05-01T09:31:48.769Z - [WATCHER]: Subscribed to changes within: /Users/airat/WebstormProjects/CRYXXEN/simple-paint (native)
+[NX Daemon Server] - 2024-05-01T09:31:48.808Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-05-01T09:31:48.811Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-05-01T09:31:48.812Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-05-01T09:31:48.813Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-05-01T09:31:48.854Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-05-01T09:31:48.854Z - [REQUEST]: 
+[NX Daemon Server] - 2024-05-01T09:31:48.854Z - [REQUEST]: 
+[NX Daemon Server] - 2024-05-01T09:31:48.890Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-05-01T09:31:48.891Z - Time taken for 'total for creating and serializing project graph' 77.21116697788239ms
+[NX Daemon Server] - 2024-05-01T09:31:48.898Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-05-01T09:31:48.898Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 78. Response time: 8.
+[NX Daemon Server] - 2024-05-01T09:31:48.901Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-05-01T09:31:48.902Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-05-01T09:31:48.903Z - Time taken for 'total for creating and serializing project graph' 0.6662920117378235ms
+[NX Daemon Server] - 2024-05-01T09:31:48.904Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-05-01T09:31:48.904Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-05-01T09:31:48.907Z - Established a connection. Number of open connections: 2
