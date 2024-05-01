@@ -33,4 +33,8 @@ export class ToolbarComponent {
   public clear(): void {
     this.canvasService.clearCanvas();
   }
+
+  public trackByItem(index: number): number {
+    return index;
+  }
 }

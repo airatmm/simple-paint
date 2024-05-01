@@ -7,11 +7,11 @@ export class DrawingStrategyFactory {
   static getStrategy(tool: string, color: string): DrawingStrategy {
     switch (tool) {
       case 'line':
-        return new LineDrawingStrategy();
+        return LineDrawingStrategy.create(color);
       case 'rectangle':
-        return new RectangleDrawingStrategy();
+        return RectangleDrawingStrategy.create(color);
       case 'circle':
-        return new CircleDrawingStrategy();
+        return CircleDrawingStrategy.create(color);
       default:
         throw new Error(`Неизвестный инструмент рисования: ${tool}`);
     }

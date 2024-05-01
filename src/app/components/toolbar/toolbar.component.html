@@ -2,7 +2,7 @@
   <div class="tools">
     <button
       class="tool"
-      *ngFor="let tool of tools"
+      *ngFor="let tool of tools; trackBy: trackByItem"
       (click)="selectTool(tool)"
       [ngClass]="{ active: tool === selectedTool }">
       <svg class="icon">
@@ -14,7 +14,7 @@
   <div class="colors">
     <button
       class="color"
-      *ngFor="let color of colors"
+      *ngFor="let color of colors; trackBy: trackByItem"
       (click)="selectColor(color)"
       [ngStyle]="{ backgroundColor: color }"
       [ngClass]="{ active: color === selectedColor }"></button>

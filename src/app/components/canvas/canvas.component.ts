@@ -1,11 +1,11 @@
 import {
-  Component,
-  ViewChild,
-  ElementRef,
   AfterViewInit,
-  OnDestroy,
   ChangeDetectionStrategy,
+  Component,
+  ElementRef,
   inject,
+  OnDestroy,
+  ViewChild,
 } from '@angular/core';
 import { CanvasFacade } from '../../store/facade';
 import { combineLatest, Subject, takeUntil } from 'rxjs';
@@ -28,8 +28,8 @@ export class CanvasComponent implements AfterViewInit, OnDestroy {
   private destroy$ = new Subject<void>();
   public readonly facade = inject(CanvasFacade);
   private readonly canvasService = inject(CanvasService);
-  drawingStrategy: DrawingStrategy = new LineDrawingStrategy();
   currentColor = '#000000';
+  drawingStrategy: DrawingStrategy = LineDrawingStrategy.create(this.currentColor);
 
   ngAfterViewInit(): void {
     this.canvasService.initializeCanvas(this.canvas);
@@ -43,14 +43,12 @@ export class CanvasComponent implements AfterViewInit, OnDestroy {
 
     this.canvasService.createMouseEvents(this.destroy$).subscribe(positions => {
       if (this.drawingStrategy) {
-        this.canvasService.getContext().strokeStyle = this.currentColor;
         this.drawingStrategy.draw(
           this.canvasService.getContext(),
           positions.prevPos.x,
           positions.prevPos.y,
           positions.currentPos.x,
-          positions.currentPos.y,
-          this.currentColor
+          positions.currentPos.y
         );
       }
     });
