@@ -1,6 +1,10 @@
 <ng-container>
   <div class="tools">
-    <button class="tool" *ngFor="let tool of tools" (click)="selectTool(tool)">
+    <button
+      class="tool"
+      *ngFor="let tool of tools"
+      (click)="selectTool(tool)"
+      [ngClass]="{ active: tool === selectedTool }">
       <svg class="icon">
         <use [attr.href]="'/assets/icons.svg?v=' + timestamp + '#' + tool"></use>
         <!--        <use [attr.href]="'/assets/icons.svg#' + tool"></use>-->
@@ -12,7 +16,8 @@
       class="color"
       *ngFor="let color of colors"
       (click)="selectColor(color)"
-      [ngStyle]="{ backgroundColor: color }"></button>
+      [ngStyle]="{ backgroundColor: color }"
+      [ngClass]="{ active: color === selectedColor }"></button>
   </div>
 
   <button (click)="clear()">Очистить</button>

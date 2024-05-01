@@ -8287,3 +8287,1281 @@
 [NX Daemon Server] - 2024-04-30T16:57:56.519Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
 [NX Daemon Server] - 2024-04-30T16:57:56.519Z - [REQUEST]: 
 [NX Daemon Server] - 2024-04-30T16:57:56.545Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8527920097112656ms
+[NX Daemon Server] - 2024-04-30T16:59:33.069Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T16:59:33.071Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T16:59:33.071Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T16:59:33.071Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T16:59:33.071Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T16:59:33.071Z - Time taken for 'changed-projects' 0.09704199433326721ms
+[NX Daemon Server] - 2024-04-30T16:59:33.484Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T16:59:34.297Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T16:59:34.297Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T16:59:34.297Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T16:59:34.297Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T16:59:34.297Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T16:59:34.297Z - Time taken for 'changed-projects' 0.009708002209663391ms
+[NX Daemon Server] - 2024-04-30T16:59:34.745Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T16:59:39.477Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T16:59:39.478Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T16:59:39.478Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T16:59:39.507Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8271669894456863ms
+[NX Daemon Server] - 2024-04-30T17:01:59.717Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:01:59.720Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:01:59.720Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:01:59.720Z - Handled FILE-WATCH-CHANGED. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:01:59.720Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:01:59.721Z - Time taken for 'changed-projects' 0.2787500023841858ms
+[NX Daemon Server] - 2024-04-30T17:02:00.131Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:02:06.127Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:02:06.128Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:02:06.128Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:02:06.156Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8131249994039536ms
+[NX Daemon Server] - 2024-04-30T17:02:29.468Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:03:35.990Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:03:35.994Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:03:35.996Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:03:35.997Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:03:35.997Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T17:03:35.997Z - Time taken for 'changed-projects' 0.8372080028057098ms
+[NX Daemon Server] - 2024-04-30T17:03:36.384Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:03:42.398Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:03:42.398Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:03:42.398Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:03:42.428Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5425000041723251ms
+[NX Daemon Server] - 2024-04-30T17:04:52.818Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:04:52.820Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:04:52.820Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:04:52.820Z - Handled FILE-WATCH-CHANGED. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:04:52.820Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:04:52.820Z - Time taken for 'changed-projects' 0.10474999248981476ms
+[NX Daemon Server] - 2024-04-30T17:04:53.241Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:04:59.223Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:04:59.223Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:04:59.223Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:04:59.253Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5507090091705322ms
+[NX Daemon Server] - 2024-04-30T17:06:50.481Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:06:50.483Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:06:50.483Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:06:50.484Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:06:50.485Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:06:50.485Z - Time taken for 'changed-projects' 0.3015419989824295ms
+[NX Daemon Server] - 2024-04-30T17:06:50.989Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:06:56.888Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:06:56.888Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:06:56.888Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:06:56.928Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.29554200172424316ms
+[NX Daemon Server] - 2024-04-30T17:07:10.226Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:07:10.227Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:07:10.227Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:07:10.227Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:07:10.227Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:07:10.227Z - Time taken for 'changed-projects' 0.10020799934864044ms
+[NX Daemon Server] - 2024-04-30T17:07:10.374Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:07:10.375Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:07:10.375Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:07:10.375Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:07:10.375Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:07:10.375Z - Time taken for 'changed-projects' 0.010333001613616943ms
+[NX Daemon Server] - 2024-04-30T17:07:10.790Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:07:16.637Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:07:16.637Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:07:16.637Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:07:16.660Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.385124996304512ms
+[NX Daemon Server] - 2024-04-30T17:07:33.813Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:10:02.246Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:10:02.248Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:10:02.249Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:10:02.249Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T17:10:02.249Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:10:02.250Z - Time taken for 'changed-projects' 0.2409999966621399ms
+[NX Daemon Server] - 2024-04-30T17:10:02.310Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:10:02.310Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:10:02.310Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:10:02.310Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:10:02.310Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:10:02.311Z - Time taken for 'changed-projects' 0.019082993268966675ms
+[NX Daemon Server] - 2024-04-30T17:10:02.523Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:10:02.869Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:10:08.650Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:10:08.651Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:10:08.651Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:10:08.671Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.21666699647903442ms
+[NX Daemon Server] - 2024-04-30T17:10:09.420Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:11:24.640Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:11:24.641Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:11:24.641Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:11:24.642Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T17:11:24.642Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:11:24.642Z - Time taken for 'changed-projects' 0.24037499725818634ms
+[NX Daemon Server] - 2024-04-30T17:11:25.339Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:11:25.519Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:11:27.148Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:11:31.045Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:11:31.046Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:11:31.046Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:11:31.068Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8254159986972809ms
+[NX Daemon Server] - 2024-04-30T17:13:29.771Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:14:59.438Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:14:59.439Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:14:59.440Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:14:59.440Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T17:14:59.440Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:14:59.440Z - Time taken for 'changed-projects' 0.10529100894927979ms
+[NX Daemon Server] - 2024-04-30T17:14:59.879Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:15:05.841Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:15:05.841Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:15:05.841Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:15:05.872Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.25608301162719727ms
+[NX Daemon Server] - 2024-04-30T17:15:21.927Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:15:21.928Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:15:21.929Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:15:21.929Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T17:15:21.929Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:15:21.929Z - Time taken for 'changed-projects' 0.1130409985780716ms
+[NX Daemon Server] - 2024-04-30T17:15:22.424Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:15:22.425Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:15:22.425Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:15:22.425Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:15:22.425Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:15:22.425Z - Time taken for 'changed-projects' 0.12866701185703278ms
+[NX Daemon Server] - 2024-04-30T17:15:22.528Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:15:22.922Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:15:28.332Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:15:28.332Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:15:28.332Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:15:28.354Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.6410830020904541ms
+[NX Daemon Server] - 2024-04-30T17:22:06.003Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:22:59.831Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:22:59.837Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:22:59.837Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:22:59.838Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:22:59.838Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T17:22:59.838Z - Time taken for 'changed-projects' 0.16908301413059235ms
+[NX Daemon Server] - 2024-04-30T17:23:00.304Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:23:06.241Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:23:06.241Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:23:06.241Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:23:06.267Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.6138329952955246ms
+[NX Daemon Server] - 2024-04-30T17:24:43.372Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:24:43.379Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:24:43.380Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:24:43.380Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T17:24:43.380Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:24:43.381Z - Time taken for 'changed-projects' 0.8672090023756027ms
+[NX Daemon Server] - 2024-04-30T17:24:43.567Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:24:43.567Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:24:43.567Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:24:43.567Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:24:43.567Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:24:43.567Z - Time taken for 'changed-projects' 0.013416990637779236ms
+[NX Daemon Server] - 2024-04-30T17:24:44.143Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:24:49.781Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:24:49.781Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:24:49.782Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:24:49.809Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5902500003576279ms
+[NX Daemon Server] - 2024-04-30T17:25:56.953Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:25:56.955Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:25:56.955Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:25:56.955Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:25:56.955Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:25:56.955Z - Time taken for 'changed-projects' 0.1283329874277115ms
+[NX Daemon Server] - 2024-04-30T17:25:57.140Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:25:57.140Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:25:57.140Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:25:57.140Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:25:57.140Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:25:57.140Z - Time taken for 'changed-projects' 0.013916999101638794ms
+[NX Daemon Server] - 2024-04-30T17:25:57.670Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:26:03.357Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:26:03.357Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:26:03.357Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:26:03.382Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5624159872531891ms
+[NX Daemon Server] - 2024-04-30T17:26:28.446Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:26:28.446Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:26:28.446Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:26:28.447Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T17:26:28.447Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:26:28.447Z - Time taken for 'changed-projects' 0.1062920093536377ms
+[NX Daemon Server] - 2024-04-30T17:26:28.952Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:26:34.849Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:26:34.849Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:26:34.849Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:26:34.876Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5828749984502792ms
+[NX Daemon Server] - 2024-04-30T17:26:42.367Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:26:42.369Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:26:42.370Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:26:42.370Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T17:26:42.370Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:26:42.371Z - Time taken for 'changed-projects' 0.8998329937458038ms
+[NX Daemon Server] - 2024-04-30T17:26:42.788Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:26:48.772Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:26:48.772Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:26:48.772Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:26:48.805Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.7087920010089874ms
+[NX Daemon Server] - 2024-04-30T17:27:01.174Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:27:01.185Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:27:01.185Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:27:01.185Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:27:01.186Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:27:01.188Z - Time taken for 'changed-projects' 0.5464170128107071ms
+[NX Daemon Server] - 2024-04-30T17:27:01.727Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:27:07.586Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:27:07.586Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:27:07.586Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:27:07.610Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.35533399879932404ms
+[NX Daemon Server] - 2024-04-30T17:27:09.740Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:31:24.879Z - [WATCHER]: src/assets/icons.svg was modified
+[NX Daemon Server] - 2024-04-30T17:31:24.882Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:31:24.883Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:31:24.883Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T17:31:24.883Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:31:24.883Z - Time taken for 'changed-projects' 0.28395800292491913ms
+[NX Daemon Server] - 2024-04-30T17:31:31.284Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:31:31.284Z - [REQUEST]: src/assets/icons.svg
+[NX Daemon Server] - 2024-04-30T17:31:31.284Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:31:31.308Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.2524169981479645ms
+[NX Daemon Server] - 2024-04-30T17:31:38.232Z - [WATCHER]: src/app/components/toolbar/toolbar.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:31:38.233Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:31:38.233Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:31:38.233Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:31:38.233Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:31:38.234Z - Time taken for 'changed-projects' 0.12129199504852295ms
+[NX Daemon Server] - 2024-04-30T17:31:38.646Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:31:44.636Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:31:44.637Z - [REQUEST]: src/app/components/toolbar/toolbar.component.ts
+[NX Daemon Server] - 2024-04-30T17:31:44.637Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:31:44.668Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5319589972496033ms
+[NX Daemon Server] - 2024-04-30T17:31:58.095Z - [WATCHER]: src/app/components/toolbar/toolbar.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:31:58.100Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:31:58.100Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:31:58.100Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:31:58.100Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:31:58.100Z - Time taken for 'changed-projects' 0.09937500953674316ms
+[NX Daemon Server] - 2024-04-30T17:31:58.528Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:32:04.504Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:32:04.506Z - [REQUEST]: src/app/components/toolbar/toolbar.component.ts
+[NX Daemon Server] - 2024-04-30T17:32:04.506Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:32:04.530Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5883750021457672ms
+[NX Daemon Server] - 2024-04-30T17:32:10.846Z - [WATCHER]: src/assets/icons.svg was modified
+[NX Daemon Server] - 2024-04-30T17:32:10.846Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:32:10.846Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:32:10.846Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:32:10.846Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:32:10.846Z - Time taken for 'changed-projects' 0.03412500023841858ms
+[NX Daemon Server] - 2024-04-30T17:32:17.223Z - [WATCHER]: src/app/services/drawing-strategies/brush-drawing-strategy.ts was deleted
+[NX Daemon Server] - 2024-04-30T17:32:17.223Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:32:17.223Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:32:17.223Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:32:17.223Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:32:17.224Z - Time taken for 'changed-projects' 0.10649999976158142ms
+[NX Daemon Server] - 2024-04-30T17:32:17.248Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:32:17.248Z - [REQUEST]: src/assets/icons.svg
+[NX Daemon Server] - 2024-04-30T17:32:17.248Z - [REQUEST]: src/app/services/drawing-strategies/brush-drawing-strategy.ts
+[NX Daemon Server] - 2024-04-30T17:32:17.285Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.33933399617671967ms
+[NX Daemon Server] - 2024-04-30T17:32:17.738Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:32:27.316Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:32:27.321Z - [WATCHER]: src/app/services/drawing-strategies/drawing-strategy-factory.ts was modified
+[NX Daemon Server] - 2024-04-30T17:32:27.322Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:32:27.322Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:32:27.322Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:32:27.322Z - Time taken for 'changed-projects' 0.18012499809265137ms
+[NX Daemon Server] - 2024-04-30T17:32:27.764Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:32:33.725Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:32:33.725Z - [REQUEST]: src/app/services/drawing-strategies/drawing-strategy-factory.ts
+[NX Daemon Server] - 2024-04-30T17:32:33.725Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:32:33.757Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5378330051898956ms
+[NX Daemon Server] - 2024-04-30T17:32:46.207Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:33:31.612Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:33:31.616Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:33:31.617Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:33:31.617Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T17:33:31.617Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:33:31.618Z - Time taken for 'changed-projects' 0.49912500381469727ms
+[NX Daemon Server] - 2024-04-30T17:33:32.031Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:33:38.018Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:33:38.018Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:33:38.018Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:33:38.041Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.6128749996423721ms
+[NX Daemon Server] - 2024-04-30T17:34:16.175Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-04-30T17:34:16.177Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:34:16.177Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:34:16.177Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:34:16.177Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:34:16.177Z - Time taken for 'changed-projects' 0.3477090001106262ms
+[NX Daemon Server] - 2024-04-30T17:34:16.614Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:34:22.580Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:34:22.580Z - [REQUEST]: src/app/components/canvas/canvas.component.ts,src/app/services/drawing-strategies/line-drawing-strategy.ts
+[NX Daemon Server] - 2024-04-30T17:34:22.580Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:34:22.601Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.6459999978542328ms
+[NX Daemon Server] - 2024-04-30T17:38:27.850Z - [WATCHER]: src/app/components/canvas/canvas.component.ts was modified
+[NX Daemon Server] - 2024-04-30T17:38:27.851Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:38:27.851Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:38:27.851Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:38:27.851Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:38:27.852Z - Time taken for 'changed-projects' 0.09004199504852295ms
+[NX Daemon Server] - 2024-04-30T17:38:28.351Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:38:31.177Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:38:34.255Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:38:34.256Z - [REQUEST]: src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T17:38:34.256Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:38:34.290Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8507499992847443ms
+[NX Daemon Server] - 2024-04-30T17:43:14.004Z - [WATCHER]: src/app/services/drawing-strategies/rectangle-drawing-strategy.ts was modified
+[NX Daemon Server] - 2024-04-30T17:43:14.008Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T17:43:14.008Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T17:43:14.008Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T17:43:14.008Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:43:14.008Z - Time taken for 'changed-projects' 0.3014589995145798ms
+[NX Daemon Server] - 2024-04-30T17:43:20.410Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T17:43:20.410Z - [REQUEST]: src/app/services/drawing-strategies/rectangle-drawing-strategy.ts
+[NX Daemon Server] - 2024-04-30T17:43:20.410Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T17:43:20.433Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.6886250078678131ms
+[NX Daemon Server] - 2024-04-30T17:44:00.819Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T17:57:18.780Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T18:02:00.553Z - [WATCHER]: src/app/services/canvas.services.ts was modified
+[NX Daemon Server] - 2024-04-30T18:02:00.555Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T18:02:00.555Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T18:02:00.555Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T18:02:00.556Z - Time taken for 'changed-projects' 0.09816600382328033ms
+[NX Daemon Server] - 2024-04-30T18:02:00.560Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T18:02:00.725Z - [WATCHER]: src/app/services/canvas.services.ts was modified
+[NX Daemon Server] - 2024-04-30T18:02:00.725Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T18:02:00.725Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T18:02:00.725Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T18:02:00.726Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T18:02:00.726Z - Time taken for 'changed-projects' 0.008249998092651367ms
+[NX Daemon Server] - 2024-04-30T18:02:01.461Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T18:02:06.960Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T18:02:06.960Z - [REQUEST]: src/app/services/canvas.services.ts
+[NX Daemon Server] - 2024-04-30T18:02:06.960Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T18:02:06.980Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 2.363334000110626ms
+[NX Daemon Server] - 2024-04-30T18:02:27.775Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T18:03:32.980Z - [WATCHER]: src/app/services/canvas.services.ts was modified
+[NX Daemon Server] - 2024-04-30T18:03:32.989Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T18:03:32.990Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T18:03:32.990Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T18:03:32.990Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T18:03:32.990Z - Time taken for 'changed-projects' 0.9651670008897781ms
+[NX Daemon Server] - 2024-04-30T18:03:33.133Z - [WATCHER]: src/app/services/canvas.services.ts was modified
+[NX Daemon Server] - 2024-04-30T18:03:33.134Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T18:03:33.134Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T18:03:33.134Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T18:03:33.134Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T18:03:33.134Z - Time taken for 'changed-projects' 0.006959006190299988ms
+[NX Daemon Server] - 2024-04-30T18:03:33.730Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T18:03:39.385Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T18:03:39.385Z - [REQUEST]: src/app/services/canvas.services.ts
+[NX Daemon Server] - 2024-04-30T18:03:39.385Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T18:03:39.415Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.3236670047044754ms
+[NX Daemon Server] - 2024-04-30T18:05:09.091Z - [WATCHER]: src/app/services/canvas.services.ts was modified
+[NX Daemon Server] - 2024-04-30T18:05:09.092Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T18:05:09.092Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T18:05:09.092Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T18:05:09.092Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T18:05:09.092Z - Time taken for 'changed-projects' 0.04629199206829071ms
+[NX Daemon Server] - 2024-04-30T18:05:09.580Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T18:05:15.495Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T18:05:15.497Z - [REQUEST]: src/app/services/canvas.services.ts
+[NX Daemon Server] - 2024-04-30T18:05:15.497Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T18:05:15.522Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.6250420063734055ms
+[NX Daemon Server] - 2024-04-30T19:36:03.059Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T19:40:45.358Z - [WATCHER]: src/app/services/canvas.services.ts was modified
+[NX Daemon Server] - 2024-04-30T19:40:45.360Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T19:40:45.360Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T19:40:45.360Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T19:40:45.360Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T19:40:45.360Z - Time taken for 'changed-projects' 0.1150829941034317ms
+[NX Daemon Server] - 2024-04-30T19:40:45.768Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T19:40:51.764Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T19:40:51.764Z - [REQUEST]: src/app/services/canvas.services.ts
+[NX Daemon Server] - 2024-04-30T19:40:51.764Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T19:40:51.790Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5616670101881027ms
+[NX Daemon Server] - 2024-04-30T19:41:03.880Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T19:47:04.269Z - [WATCHER]: 0 file(s) created or restored, 1 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-04-30T19:47:04.270Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T19:47:04.270Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T19:47:04.270Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T19:47:04.270Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T19:47:04.270Z - Time taken for 'changed-projects' 0.09954099357128143ms
+[NX Daemon Server] - 2024-04-30T19:47:04.904Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T19:47:06.251Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-04-30T19:47:06.251Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T19:47:06.251Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T19:47:06.251Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T19:47:06.251Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T19:47:06.252Z - Time taken for 'changed-projects' 0.17204199731349945ms
+[NX Daemon Server] - 2024-04-30T19:47:06.682Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T19:47:10.705Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T19:47:10.705Z - [REQUEST]: src/app/services/factory/drawing-strategy-factory.ts,src/app/components/canvas/canvas.component.ts
+[NX Daemon Server] - 2024-04-30T19:47:10.705Z - [REQUEST]: src/app/services/drawing-strategies/drawing-strategy-factory.ts
+[NX Daemon Server] - 2024-04-30T19:47:10.770Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.1257079988718033ms
+[NX Daemon Server] - 2024-04-30T19:47:14.998Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T19:52:26.733Z - [WATCHER]: src/app/store/selectors.ts was modified
+[NX Daemon Server] - 2024-04-30T19:52:26.740Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T19:52:26.741Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T19:52:26.741Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T19:52:26.741Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T19:52:26.741Z - Time taken for 'changed-projects' 0.5057919919490814ms
+[NX Daemon Server] - 2024-04-30T19:52:27.153Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T19:52:33.142Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T19:52:33.142Z - [REQUEST]: src/app/store/selectors.ts
+[NX Daemon Server] - 2024-04-30T19:52:33.142Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T19:52:33.173Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5229580104351044ms
+[NX Daemon Server] - 2024-04-30T20:05:38.632Z - [WATCHER]: src/app/components/toolbar/toolbar.component.ts was modified
+[NX Daemon Server] - 2024-04-30T20:05:38.644Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:05:38.644Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:05:38.644Z - Handled FILE-WATCH-CHANGED. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:05:38.644Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:05:38.645Z - Time taken for 'changed-projects' 0.4565829932689667ms
+[NX Daemon Server] - 2024-04-30T20:05:39.086Z - [WATCHER]: src/app/components/toolbar/toolbar.component.ts was modified
+[NX Daemon Server] - 2024-04-30T20:05:39.087Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:05:39.087Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:05:39.087Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:05:39.087Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:05:39.087Z - Time taken for 'changed-projects' 0.007791996002197266ms
+[NX Daemon Server] - 2024-04-30T20:05:39.228Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:05:39.510Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:05:45.046Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:05:45.047Z - [REQUEST]: src/app/components/toolbar/toolbar.component.ts
+[NX Daemon Server] - 2024-04-30T20:05:45.047Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:05:45.082Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.7398339956998825ms
+[NX Daemon Server] - 2024-04-30T20:06:06.484Z - [WATCHER]: src/app/components/toolbar/toolbar.component.ts was modified
+[NX Daemon Server] - 2024-04-30T20:06:06.488Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:06:06.488Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:06:06.488Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:06:06.488Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:06:06.489Z - Time taken for 'changed-projects' 0.7615000009536743ms
+[NX Daemon Server] - 2024-04-30T20:06:06.911Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:06:12.889Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:06:12.889Z - [REQUEST]: src/app/components/toolbar/toolbar.component.ts
+[NX Daemon Server] - 2024-04-30T20:06:12.889Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:06:12.915Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8158749938011169ms
+[NX Daemon Server] - 2024-04-30T20:07:26.471Z - [WATCHER]: src/app/components/toolbar/toolbar.component.ts was modified
+[NX Daemon Server] - 2024-04-30T20:07:26.472Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:07:26.473Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:07:26.473Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:07:26.473Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:07:26.473Z - Time taken for 'changed-projects' 0.06654199957847595ms
+[NX Daemon Server] - 2024-04-30T20:07:26.651Z - [WATCHER]: src/app/components/toolbar/toolbar.component.ts was modified
+[NX Daemon Server] - 2024-04-30T20:07:26.652Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:07:26.652Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:07:26.652Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:07:26.652Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:07:26.652Z - Time taken for 'changed-projects' 0.015166997909545898ms
+[NX Daemon Server] - 2024-04-30T20:07:27.338Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:07:32.879Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:07:32.879Z - [REQUEST]: src/app/components/toolbar/toolbar.component.ts
+[NX Daemon Server] - 2024-04-30T20:07:32.879Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:07:32.905Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8001669943332672ms
+[NX Daemon Server] - 2024-04-30T20:08:25.821Z - [WATCHER]: src/app/components/toolbar/toolbar.component.ts was modified
+[NX Daemon Server] - 2024-04-30T20:08:25.824Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:08:25.825Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:08:25.825Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:08:25.825Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:08:25.825Z - Time taken for 'changed-projects' 0.27812500298023224ms
+[NX Daemon Server] - 2024-04-30T20:08:26.261Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:08:32.226Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:08:32.227Z - [REQUEST]: src/app/components/toolbar/toolbar.component.ts
+[NX Daemon Server] - 2024-04-30T20:08:32.227Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:08:32.251Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5345840007066727ms
+[NX Daemon Server] - 2024-04-30T20:10:09.738Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:10:09.749Z - [WATCHER]: src/app/components/toolbar/toolbar.component.ts was modified
+[NX Daemon Server] - 2024-04-30T20:10:09.750Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:10:09.751Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:10:09.751Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:10:09.751Z - Time taken for 'changed-projects' 0.2463340014219284ms
+[NX Daemon Server] - 2024-04-30T20:10:10.169Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:10:16.153Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:10:16.154Z - [REQUEST]: src/app/components/toolbar/toolbar.component.ts
+[NX Daemon Server] - 2024-04-30T20:10:16.154Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:10:16.185Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.0067079961299896ms
+[NX Daemon Server] - 2024-04-30T20:10:57.261Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:10:57.262Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:10:57.262Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:10:57.262Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:10:57.262Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:10:57.262Z - Time taken for 'changed-projects' 0.05912500619888306ms
+[NX Daemon Server] - 2024-04-30T20:10:57.339Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:10:57.339Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:10:57.340Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:10:57.340Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:10:57.340Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:10:57.340Z - Time taken for 'changed-projects' 0.009749993681907654ms
+[NX Daemon Server] - 2024-04-30T20:11:03.665Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:11:03.666Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:11:03.666Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:11:03.689Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5385829955339432ms
+[NX Daemon Server] - 2024-04-30T20:11:16.599Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-04-30T20:11:16.601Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:11:16.601Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:11:16.601Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:11:16.601Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:11:16.601Z - Time taken for 'changed-projects' 0.1292089968919754ms
+[NX Daemon Server] - 2024-04-30T20:11:16.722Z - [WATCHER]: src/app/components/toolbar/toolbar.component.html was modified
+[NX Daemon Server] - 2024-04-30T20:11:16.722Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:11:16.722Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:11:16.722Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:11:16.722Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:11:16.722Z - Time taken for 'changed-projects' 0.0069160014390945435ms
+[NX Daemon Server] - 2024-04-30T20:11:17.229Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:11:23.006Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:11:23.006Z - [REQUEST]: src/app/components/toolbar/toolbar.component.html,src/app/components/toolbar/toolbar.component.ts
+[NX Daemon Server] - 2024-04-30T20:11:23.007Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:11:23.039Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.7870000004768372ms
+[NX Daemon Server] - 2024-04-30T20:12:44.140Z - [WATCHER]: src/app/components/toolbar/toolbar.component.html was modified
+[NX Daemon Server] - 2024-04-30T20:12:44.141Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:12:44.141Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:12:44.141Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:12:44.141Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:12:44.141Z - Time taken for 'changed-projects' 0.054416999220848083ms
+[NX Daemon Server] - 2024-04-30T20:12:44.281Z - [WATCHER]: src/app/components/toolbar/toolbar.component.html was modified
+[NX Daemon Server] - 2024-04-30T20:12:44.281Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:12:44.281Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:12:44.281Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:12:44.281Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:12:44.281Z - Time taken for 'changed-projects' 0.006957992911338806ms
+[NX Daemon Server] - 2024-04-30T20:12:44.742Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:12:50.546Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:12:50.546Z - [REQUEST]: src/app/components/toolbar/toolbar.component.html
+[NX Daemon Server] - 2024-04-30T20:12:50.546Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:12:50.694Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.3015000075101852ms
+[NX Daemon Server] - 2024-04-30T20:14:43.540Z - [WATCHER]: src/app/components/toolbar/toolbar.component.html was modified
+[NX Daemon Server] - 2024-04-30T20:14:43.541Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:14:43.542Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:14:43.542Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:14:43.542Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:14:43.542Z - Time taken for 'changed-projects' 0.09074999392032623ms
+[NX Daemon Server] - 2024-04-30T20:14:43.748Z - [WATCHER]: src/app/components/toolbar/toolbar.component.html was modified
+[NX Daemon Server] - 2024-04-30T20:14:43.748Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:14:43.748Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:14:43.748Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:14:43.748Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:14:43.748Z - Time taken for 'changed-projects' 0.007917001843452454ms
+[NX Daemon Server] - 2024-04-30T20:14:44.202Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:14:49.945Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:14:49.945Z - [REQUEST]: src/app/components/toolbar/toolbar.component.html
+[NX Daemon Server] - 2024-04-30T20:14:49.945Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:14:49.969Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.9490000009536743ms
+[NX Daemon Server] - 2024-04-30T20:15:48.245Z - [WATCHER]: src/app/components/toolbar/toolbar.component.html was modified
+[NX Daemon Server] - 2024-04-30T20:15:48.247Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:15:48.252Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:15:48.253Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 6.
+[NX Daemon Server] - 2024-04-30T20:15:48.253Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:15:48.254Z - Time taken for 'changed-projects' 0.0611250102519989ms
+[NX Daemon Server] - 2024-04-30T20:15:48.672Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:15:54.651Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:15:54.652Z - [REQUEST]: src/app/components/toolbar/toolbar.component.html
+[NX Daemon Server] - 2024-04-30T20:15:54.652Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:15:54.673Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.0749169886112213ms
+[NX Daemon Server] - 2024-04-30T20:17:45.697Z - [WATCHER]: src/app/components/toolbar/toolbar.component.html was modified
+[NX Daemon Server] - 2024-04-30T20:17:45.699Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:17:45.700Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:17:45.700Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:17:45.700Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:17:45.700Z - Time taken for 'changed-projects' 0.07975000143051147ms
+[NX Daemon Server] - 2024-04-30T20:17:45.827Z - [WATCHER]: src/app/components/toolbar/toolbar.component.html was modified
+[NX Daemon Server] - 2024-04-30T20:17:45.827Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:17:45.827Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:17:45.827Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:17:45.827Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:17:45.827Z - Time taken for 'changed-projects' 0.011625006794929504ms
+[NX Daemon Server] - 2024-04-30T20:17:46.300Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:17:52.103Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:17:52.104Z - [REQUEST]: src/app/components/toolbar/toolbar.component.html
+[NX Daemon Server] - 2024-04-30T20:17:52.104Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:17:52.126Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.6013749986886978ms
+[NX Daemon Server] - 2024-04-30T20:18:24.739Z - [WATCHER]: src/app/components/toolbar/toolbar.component.html was modified
+[NX Daemon Server] - 2024-04-30T20:18:24.740Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:18:24.740Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:18:24.740Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:18:24.740Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:18:24.740Z - Time taken for 'changed-projects' 0.04904100298881531ms
+[NX Daemon Server] - 2024-04-30T20:18:25.110Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:18:31.142Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:18:31.142Z - [REQUEST]: src/app/components/toolbar/toolbar.component.html
+[NX Daemon Server] - 2024-04-30T20:18:31.142Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:18:31.166Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.543041005730629ms
+[NX Daemon Server] - 2024-04-30T20:19:12.516Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:19:12.519Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:19:12.520Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:19:12.520Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:19:12.520Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:19:12.523Z - Time taken for 'changed-projects' 0.0754999965429306ms
+[NX Daemon Server] - 2024-04-30T20:19:12.917Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:19:18.922Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:19:18.922Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:19:18.922Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:19:18.945Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.24266700446605682ms
+[NX Daemon Server] - 2024-04-30T20:19:35.519Z - [WATCHER]: src/app/components/toolbar/toolbar.component.html was modified
+[NX Daemon Server] - 2024-04-30T20:19:35.520Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:19:35.520Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:19:35.521Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:19:35.521Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:19:35.521Z - Time taken for 'changed-projects' 0.0906669944524765ms
+[NX Daemon Server] - 2024-04-30T20:19:41.926Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:19:41.927Z - [REQUEST]: src/app/components/toolbar/toolbar.component.html
+[NX Daemon Server] - 2024-04-30T20:19:41.927Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:19:41.963Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.5120829939842224ms
+[NX Daemon Server] - 2024-04-30T20:20:25.805Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:20:25.813Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-04-30T20:20:25.816Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:20:25.816Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:20:25.816Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:20:25.817Z - Time taken for 'changed-projects' 0.19362500309944153ms
+[NX Daemon Server] - 2024-04-30T20:20:26.182Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:20:32.218Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:20:32.218Z - [REQUEST]: src/app/components/toolbar/toolbar.component.html,src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:20:32.218Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:20:32.247Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5562919974327087ms
+[NX Daemon Server] - 2024-04-30T20:21:01.190Z - [WATCHER]: src/app/components/toolbar/toolbar.component.html was modified
+[NX Daemon Server] - 2024-04-30T20:21:01.192Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:21:01.192Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:21:01.192Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:21:01.193Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:21:01.193Z - Time taken for 'changed-projects' 0.0685420036315918ms
+[NX Daemon Server] - 2024-04-30T20:21:01.558Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:21:07.599Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:21:07.599Z - [REQUEST]: src/app/components/toolbar/toolbar.component.html
+[NX Daemon Server] - 2024-04-30T20:21:07.599Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:21:07.624Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.47758299112319946ms
+[NX Daemon Server] - 2024-04-30T20:21:15.200Z - [WATCHER]: src/app/components/toolbar/toolbar.component.html was modified
+[NX Daemon Server] - 2024-04-30T20:21:15.201Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:21:15.201Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:21:15.201Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:21:15.201Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:21:15.201Z - Time taken for 'changed-projects' 0.03779101371765137ms
+[NX Daemon Server] - 2024-04-30T20:21:15.333Z - [WATCHER]: src/app/components/toolbar/toolbar.component.html was modified
+[NX Daemon Server] - 2024-04-30T20:21:15.333Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:21:15.333Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:21:15.333Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:21:15.333Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:21:15.333Z - Time taken for 'changed-projects' 0.006499990820884705ms
+[NX Daemon Server] - 2024-04-30T20:21:15.760Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:21:21.609Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:21:21.610Z - [REQUEST]: src/app/components/toolbar/toolbar.component.html
+[NX Daemon Server] - 2024-04-30T20:21:21.610Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:21:21.635Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.4730830043554306ms
+[NX Daemon Server] - 2024-04-30T20:21:43.582Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-04-30T20:21:43.583Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:21:43.583Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:21:43.583Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:21:43.583Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:21:43.584Z - Time taken for 'changed-projects' 0.07341699302196503ms
+[NX Daemon Server] - 2024-04-30T20:21:43.998Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:21:49.988Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:21:49.989Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss,src/app/components/toolbar/toolbar.component.html
+[NX Daemon Server] - 2024-04-30T20:21:49.989Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:21:50.019Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.0461660027503967ms
+[NX Daemon Server] - 2024-04-30T20:22:12.227Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:22:12.229Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:22:12.229Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:22:12.229Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:22:12.229Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:22:12.229Z - Time taken for 'changed-projects' 0.04412500560283661ms
+[NX Daemon Server] - 2024-04-30T20:22:12.338Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:22:12.338Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:22:12.338Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:22:12.338Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:22:12.338Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:22:12.338Z - Time taken for 'changed-projects' 0.006165996193885803ms
+[NX Daemon Server] - 2024-04-30T20:22:12.815Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:22:18.636Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:22:18.637Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:22:18.637Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:22:18.661Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8587910085916519ms
+[NX Daemon Server] - 2024-04-30T20:22:38.588Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:22:38.590Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:22:38.590Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:22:38.590Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:22:38.590Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:22:38.590Z - Time taken for 'changed-projects' 0.08370800316333771ms
+[NX Daemon Server] - 2024-04-30T20:22:38.707Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:22:38.707Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:22:38.708Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:22:38.708Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:22:38.708Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:22:38.708Z - Time taken for 'changed-projects' 0.01737499237060547ms
+[NX Daemon Server] - 2024-04-30T20:22:44.993Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:22:44.994Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:22:44.994Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:22:45.024Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.6022500097751617ms
+[NX Daemon Server] - 2024-04-30T20:22:49.976Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:22:49.978Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:22:49.979Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:22:49.979Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:22:49.979Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:22:49.980Z - Time taken for 'changed-projects' 0.0850829929113388ms
+[NX Daemon Server] - 2024-04-30T20:22:56.382Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:22:56.382Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:22:56.382Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:22:56.408Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5592920035123825ms
+[NX Daemon Server] - 2024-04-30T20:23:20.453Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:23:20.454Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:23:20.454Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:23:20.454Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:23:20.454Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:23:20.454Z - Time taken for 'changed-projects' 0.0872500091791153ms
+[NX Daemon Server] - 2024-04-30T20:23:20.547Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:23:20.547Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:23:20.547Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:23:20.547Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:23:20.547Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:23:20.547Z - Time taken for 'changed-projects' 0.01629200577735901ms
+[NX Daemon Server] - 2024-04-30T20:23:26.730Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:23:26.731Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:23:26.731Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:23:26.731Z - Handled FILE-WATCH-CHANGED. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:23:26.731Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:23:26.731Z - Time taken for 'changed-projects' 0.057374998927116394ms
+[NX Daemon Server] - 2024-04-30T20:23:26.844Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:23:26.844Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:23:26.844Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:23:26.844Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:23:26.844Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:23:26.845Z - Time taken for 'changed-projects' 0.00962500274181366ms
+[NX Daemon Server] - 2024-04-30T20:23:26.855Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:23:26.855Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:23:26.855Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:23:26.878Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.26533301174640656ms
+[NX Daemon Server] - 2024-04-30T20:23:47.063Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:23:47.067Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:23:47.068Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:23:47.069Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-04-30T20:23:47.069Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:23:47.069Z - Time taken for 'changed-projects' 0.3910830020904541ms
+[NX Daemon Server] - 2024-04-30T20:23:53.470Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:23:53.471Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:23:53.471Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:23:53.496Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.6121249943971634ms
+[NX Daemon Server] - 2024-04-30T20:25:02.044Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:25:02.045Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:25:02.045Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:25:02.045Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:25:02.046Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:25:02.048Z - Time taken for 'changed-projects' 0.14387500286102295ms
+[NX Daemon Server] - 2024-04-30T20:25:08.479Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:25:08.479Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:25:08.479Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:25:08.528Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.1317909955978394ms
+[NX Daemon Server] - 2024-04-30T20:25:11.862Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:25:11.866Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:25:11.867Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:25:11.867Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:25:11.867Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:25:11.868Z - Time taken for 'changed-projects' 0.8617500066757202ms
+[NX Daemon Server] - 2024-04-30T20:25:18.267Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:25:18.268Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:25:18.268Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:25:18.294Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5823329985141754ms
+[NX Daemon Server] - 2024-04-30T20:26:06.401Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:26:06.402Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:26:06.403Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:26:06.403Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:26:06.403Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:26:06.403Z - Time taken for 'changed-projects' 0.17599999904632568ms
+[NX Daemon Server] - 2024-04-30T20:26:12.805Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:26:12.805Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:26:12.805Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:26:12.835Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5741659998893738ms
+[NX Daemon Server] - 2024-04-30T20:26:22.307Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:26:22.310Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:26:22.310Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:26:22.310Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:26:22.310Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:26:22.310Z - Time taken for 'changed-projects' 0.5145000070333481ms
+[NX Daemon Server] - 2024-04-30T20:26:28.722Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:26:28.722Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:26:28.722Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:26:28.749Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.6245829910039902ms
+[NX Daemon Server] - 2024-04-30T20:27:20.447Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:27:20.449Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:27:20.449Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:27:20.450Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:27:20.450Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:27:20.451Z - Time taken for 'changed-projects' 0.6462080031633377ms
+[NX Daemon Server] - 2024-04-30T20:27:26.850Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:27:26.850Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:27:26.850Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:27:26.871Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.256292000412941ms
+[NX Daemon Server] - 2024-04-30T20:27:59.358Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:27:59.360Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:27:59.360Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:27:59.360Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:27:59.360Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:27:59.360Z - Time taken for 'changed-projects' 0.1047080010175705ms
+[NX Daemon Server] - 2024-04-30T20:28:05.763Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:28:05.764Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:28:05.764Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:28:05.793Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.6685000061988831ms
+[NX Daemon Server] - 2024-04-30T20:28:46.858Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:28:46.859Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:28:46.859Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:28:46.859Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:28:46.859Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:28:46.860Z - Time taken for 'changed-projects' 0.14433300495147705ms
+[NX Daemon Server] - 2024-04-30T20:28:53.262Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:28:53.262Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:28:53.262Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:28:53.293Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.7482499927282333ms
+[NX Daemon Server] - 2024-04-30T20:29:12.405Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:29:12.406Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:29:12.407Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:29:12.407Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:29:12.407Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:29:12.407Z - Time taken for 'changed-projects' 0.2370000034570694ms
+[NX Daemon Server] - 2024-04-30T20:29:18.808Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:29:18.808Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:29:18.808Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:29:18.829Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.2592500001192093ms
+[NX Daemon Server] - 2024-04-30T20:29:23.642Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:29:23.642Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:29:23.643Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:29:23.643Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:29:23.643Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:29:23.646Z - Time taken for 'changed-projects' 0.28791598975658417ms
+[NX Daemon Server] - 2024-04-30T20:29:30.044Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:29:30.044Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:29:30.044Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:29:30.066Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.27483299374580383ms
+[NX Daemon Server] - 2024-04-30T20:29:37.268Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:29:37.270Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:29:37.270Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:29:37.270Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:29:37.270Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:29:37.270Z - Time taken for 'changed-projects' 0.056542009115219116ms
+[NX Daemon Server] - 2024-04-30T20:29:43.677Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:29:43.678Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:29:43.678Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:29:43.714Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.1764170080423355ms
+[NX Daemon Server] - 2024-04-30T20:31:08.766Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:31:08.768Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:31:08.768Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:31:08.768Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:31:08.768Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:31:08.769Z - Time taken for 'changed-projects' 0.1284170001745224ms
+[NX Daemon Server] - 2024-04-30T20:31:15.159Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:31:15.159Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:31:15.159Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:31:15.186Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.3251660019159317ms
+[NX Daemon Server] - 2024-04-30T20:31:16.220Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:31:16.222Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:31:16.222Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:31:16.222Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:31:16.222Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:31:16.222Z - Time taken for 'changed-projects' 0.045458003878593445ms
+[NX Daemon Server] - 2024-04-30T20:31:22.616Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:31:22.616Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:31:22.616Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:31:22.642Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5169579982757568ms
+[NX Daemon Server] - 2024-04-30T20:31:36.410Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:31:36.411Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:31:36.411Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:31:36.411Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:31:36.411Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:31:36.412Z - Time taken for 'changed-projects' 0.12291701138019562ms
+[NX Daemon Server] - 2024-04-30T20:31:42.814Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:31:42.814Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:31:42.815Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:31:42.834Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8738339990377426ms
+[NX Daemon Server] - 2024-04-30T20:32:20.017Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:32:20.018Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:32:20.019Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:32:20.019Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:32:20.019Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:32:20.019Z - Time taken for 'changed-projects' 0.1977909952402115ms
+[NX Daemon Server] - 2024-04-30T20:32:26.423Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:32:26.423Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:32:26.423Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:32:26.446Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8106659948825836ms
+[NX Daemon Server] - 2024-04-30T20:33:01.345Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:33:01.347Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:33:01.347Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:33:01.347Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:33:01.347Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:33:01.347Z - Time taken for 'changed-projects' 0.11691699922084808ms
+[NX Daemon Server] - 2024-04-30T20:33:07.748Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:33:07.748Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:33:07.748Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:33:07.777Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5640830099582672ms
+[NX Daemon Server] - 2024-04-30T20:33:31.463Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:33:31.465Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:33:31.466Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:33:31.466Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:33:31.466Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:33:31.466Z - Time taken for 'changed-projects' 0.14824999868869781ms
+[NX Daemon Server] - 2024-04-30T20:33:37.868Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:33:37.869Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:33:37.869Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:33:37.894Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.546875ms
+[NX Daemon Server] - 2024-04-30T20:34:41.588Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:34:41.593Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:34:41.594Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:34:41.594Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:34:41.594Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:34:41.595Z - Time taken for 'changed-projects' 0.3847090005874634ms
+[NX Daemon Server] - 2024-04-30T20:34:45.382Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:34:45.383Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:34:45.383Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:34:45.383Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:34:45.384Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:34:45.384Z - Time taken for 'changed-projects' 0.018917009234428406ms
+[NX Daemon Server] - 2024-04-30T20:34:47.994Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:34:47.994Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:34:47.994Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:34:48.021Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5601669996976852ms
+[NX Daemon Server] - 2024-04-30T20:35:13.421Z - [WATCHER]: src/assets/icons.svg was modified
+[NX Daemon Server] - 2024-04-30T20:35:13.426Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:35:13.427Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:35:13.427Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:35:13.427Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:35:13.427Z - Time taken for 'changed-projects' 1.533165991306305ms
+[NX Daemon Server] - 2024-04-30T20:35:19.827Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:35:19.828Z - [REQUEST]: src/assets/icons.svg
+[NX Daemon Server] - 2024-04-30T20:35:19.828Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:35:19.852Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.589832991361618ms
+[NX Daemon Server] - 2024-04-30T20:35:31.925Z - [WATCHER]: src/assets/icons.svg was modified
+[NX Daemon Server] - 2024-04-30T20:35:31.926Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:35:31.927Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:35:31.927Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:35:31.927Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:35:31.927Z - Time taken for 'changed-projects' 0.24275000393390656ms
+[NX Daemon Server] - 2024-04-30T20:35:38.329Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:35:38.330Z - [REQUEST]: src/assets/icons.svg
+[NX Daemon Server] - 2024-04-30T20:35:38.330Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:35:38.352Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.6099160015583038ms
+[NX Daemon Server] - 2024-04-30T20:35:56.559Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:35:56.564Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:35:56.565Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:35:56.565Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:35:56.565Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:35:56.565Z - Time taken for 'changed-projects' 0.25608299672603607ms
+[NX Daemon Server] - 2024-04-30T20:36:02.968Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:36:02.968Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:36:02.968Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:36:02.990Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5806249976158142ms
+[NX Daemon Server] - 2024-04-30T20:36:10.270Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:36:10.273Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:36:10.273Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:36:10.274Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:36:10.274Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:36:10.274Z - Time taken for 'changed-projects' 0.333625003695488ms
+[NX Daemon Server] - 2024-04-30T20:36:16.676Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:36:16.676Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:36:16.676Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:36:16.704Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5801659971475601ms
+[NX Daemon Server] - 2024-04-30T20:37:02.299Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:37:02.300Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:37:02.301Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:37:02.301Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:37:02.301Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:37:02.301Z - Time taken for 'changed-projects' 0.2193329930305481ms
+[NX Daemon Server] - 2024-04-30T20:37:08.704Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:37:08.704Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:37:08.704Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:37:08.731Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.6162500083446503ms
+[NX Daemon Server] - 2024-04-30T20:37:28.062Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:37:28.064Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:37:28.064Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:37:28.064Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:37:28.064Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:37:28.064Z - Time taken for 'changed-projects' 0.27320899069309235ms
+[NX Daemon Server] - 2024-04-30T20:37:34.466Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:37:34.466Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:37:34.466Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:37:34.491Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.6064169853925705ms
+[NX Daemon Server] - 2024-04-30T20:37:49.056Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:37:49.059Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:37:49.059Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:37:49.059Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:37:49.059Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:37:49.060Z - Time taken for 'changed-projects' 0.1305840015411377ms
+[NX Daemon Server] - 2024-04-30T20:37:55.462Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:37:55.462Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:37:55.462Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:37:55.494Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.33104100823402405ms
+[NX Daemon Server] - 2024-04-30T20:38:14.755Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:38:14.758Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:38:14.758Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:38:14.758Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:38:14.758Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:38:14.759Z - Time taken for 'changed-projects' 0.5212500095367432ms
+[NX Daemon Server] - 2024-04-30T20:38:21.161Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:38:21.161Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:38:21.161Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:38:21.190Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8310409933328629ms
+[NX Daemon Server] - 2024-04-30T20:39:08.633Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:39:08.635Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:39:08.635Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:39:08.635Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:39:08.635Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:39:08.635Z - Time taken for 'changed-projects' 0.11341699957847595ms
+[NX Daemon Server] - 2024-04-30T20:39:15.038Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:39:15.038Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:39:15.038Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:39:15.059Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.564874991774559ms
+[NX Daemon Server] - 2024-04-30T20:39:27.738Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:39:27.739Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:39:27.740Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:39:27.740Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:39:27.740Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:39:27.740Z - Time taken for 'changed-projects' 0.1189579963684082ms
+[NX Daemon Server] - 2024-04-30T20:39:34.142Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:39:34.142Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:39:34.142Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:39:34.161Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.7619579881429672ms
+[NX Daemon Server] - 2024-04-30T20:39:44.677Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:39:44.680Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:39:44.680Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:39:44.680Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:39:44.680Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:39:44.681Z - Time taken for 'changed-projects' 0.4372919946908951ms
+[NX Daemon Server] - 2024-04-30T20:39:51.082Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:39:51.082Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:39:51.082Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:39:51.115Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.2505829930305481ms
+[NX Daemon Server] - 2024-04-30T20:40:10.702Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:40:10.704Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:40:10.704Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:40:10.704Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:40:10.704Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:40:10.704Z - Time taken for 'changed-projects' 0.1299169957637787ms
+[NX Daemon Server] - 2024-04-30T20:40:17.109Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:40:17.109Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:40:17.109Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:40:17.136Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.1240420043468475ms
+[NX Daemon Server] - 2024-04-30T20:40:29.997Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:40:29.998Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:40:29.998Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:40:29.998Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:40:29.998Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:40:29.999Z - Time taken for 'changed-projects' 0.11225000023841858ms
+[NX Daemon Server] - 2024-04-30T20:40:36.404Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:40:36.405Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:40:36.405Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:40:36.431Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.3449590057134628ms
+[NX Daemon Server] - 2024-04-30T20:40:58.045Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:40:58.046Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:40:58.046Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:40:58.046Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:40:58.047Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:40:58.047Z - Time taken for 'changed-projects' 0.18575000762939453ms
+[NX Daemon Server] - 2024-04-30T20:41:04.450Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:41:04.451Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:41:04.451Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:41:04.526Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.0915829986333847ms
+[NX Daemon Server] - 2024-04-30T20:41:16.761Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:41:16.762Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:41:16.762Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:41:16.762Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-30T20:41:16.763Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:41:16.764Z - Time taken for 'changed-projects' 0.09749999642372131ms
+[NX Daemon Server] - 2024-04-30T20:41:23.164Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:41:23.165Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:41:23.165Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:41:23.188Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.625791996717453ms
+[NX Daemon Server] - 2024-04-30T20:43:37.167Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-30T20:43:37.179Z - [WATCHER]: src/app/components/toolbar/toolbar.component.scss was modified
+[NX Daemon Server] - 2024-04-30T20:43:37.181Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-30T20:43:37.181Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-30T20:43:37.181Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-30T20:43:37.182Z - Time taken for 'changed-projects' 0.6238750070333481ms
+[NX Daemon Server] - 2024-04-30T20:43:43.584Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-30T20:43:43.584Z - [REQUEST]: src/app/components/toolbar/toolbar.component.scss
+[NX Daemon Server] - 2024-04-30T20:43:43.584Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-30T20:43:43.608Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.1019999980926514ms
+[NX Daemon Server] - 2024-05-01T05:08:04.475Z - [WATCHER]: 0 file(s) created or restored, 3 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-05-01T05:08:04.480Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-05-01T05:08:04.481Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-05-01T05:08:04.481Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-05-01T05:08:04.482Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T05:08:04.486Z - Time taken for 'changed-projects' 0.46787500381469727ms
+[NX Daemon Server] - 2024-05-01T05:08:04.512Z - [WATCHER]: src/app/services/factory/drawing-strategy-factory.ts was modified
+[NX Daemon Server] - 2024-05-01T05:08:04.512Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-05-01T05:08:04.513Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-05-01T05:08:04.513Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-05-01T05:08:04.513Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T05:08:04.513Z - Time taken for 'changed-projects' 0.023124992847442627ms
+[NX Daemon Server] - 2024-05-01T05:08:05.131Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T05:08:10.883Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-05-01T05:08:10.883Z - [REQUEST]: src/app/components/toolbar/toolbar.component.ts,src/app/components/canvas/canvas.component.ts,src/app/services/canvas.services.ts,src/app/services/factory/drawing-strategy-factory.ts
+[NX Daemon Server] - 2024-05-01T05:08:10.883Z - [REQUEST]: 
+[NX Daemon Server] - 2024-05-01T05:08:10.905Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8342920243740082ms
+[NX Daemon Server] - 2024-05-01T06:01:54.014Z - [WATCHER]: src/app/services/canvas.services.ts was modified
+[NX Daemon Server] - 2024-05-01T06:01:54.016Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-05-01T06:01:54.016Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-05-01T06:01:54.017Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-05-01T06:01:54.017Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:01:54.017Z - Time taken for 'changed-projects' 0.20100000500679016ms
+[NX Daemon Server] - 2024-05-01T06:01:54.416Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:02:00.443Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-05-01T06:02:00.443Z - [REQUEST]: src/app/services/canvas.services.ts
+[NX Daemon Server] - 2024-05-01T06:02:00.444Z - [REQUEST]: 
+[NX Daemon Server] - 2024-05-01T06:02:00.474Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 8.456584006547928ms
+[NX Daemon Server] - 2024-05-01T06:10:28.786Z - [WATCHER]: 0 file(s) created or restored, 3 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-05-01T06:10:28.788Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-05-01T06:10:28.788Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-05-01T06:10:28.788Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-05-01T06:10:28.788Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:28.788Z - Time taken for 'changed-projects' 0.11162498593330383ms
+[NX Daemon Server] - 2024-05-01T06:10:29.240Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:35.189Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-05-01T06:10:35.189Z - [REQUEST]: src/app/app.component.spec.ts,src/app/components/toolbar/toolbar.component.ts,src/app/components/canvas/canvas.component.scss
+[NX Daemon Server] - 2024-05-01T06:10:35.189Z - [REQUEST]: 
+[NX Daemon Server] - 2024-05-01T06:10:35.244Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.2554579973220825ms
+[NX Daemon Server] - 2024-05-01T06:10:48.067Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:48.198Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:48.282Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:49.509Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:49.581Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:49.634Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:49.970Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:50.083Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:50.220Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:50.278Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:51.067Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:51.118Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:51.368Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:51.426Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:51.535Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:51.706Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:51.788Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:51.856Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:51.916Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:51.966Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:52.018Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:52.077Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:52.140Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:52.226Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:52.279Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:52.338Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:52.399Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:52.487Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:52.538Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:52.599Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:52.651Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:52.706Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:52.784Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:52.847Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:52.909Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:57.965Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:10:58.125Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:13:49.211Z - [WATCHER]: src/app/app.component.spec.ts was modified
+[NX Daemon Server] - 2024-05-01T06:13:49.212Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-05-01T06:13:49.212Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-05-01T06:13:49.212Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-05-01T06:13:49.212Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:13:49.213Z - Time taken for 'changed-projects' 0.12345901131629944ms
+[NX Daemon Server] - 2024-05-01T06:13:49.581Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:13:49.727Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:13:55.618Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-05-01T06:13:55.618Z - [REQUEST]: src/app/app.component.spec.ts
+[NX Daemon Server] - 2024-05-01T06:13:55.618Z - [REQUEST]: 
+[NX Daemon Server] - 2024-05-01T06:13:55.640Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8544590175151825ms
+[NX Daemon Server] - 2024-05-01T06:14:03.442Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:14:03.793Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:14:03.861Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:14:11.269Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:14:11.345Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:14:11.396Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:15:28.736Z - [WATCHER]: src/app/app.component.spec.ts was modified
+[NX Daemon Server] - 2024-05-01T06:15:28.742Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-05-01T06:15:28.743Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-05-01T06:15:28.743Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-05-01T06:15:28.743Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:15:28.743Z - Time taken for 'changed-projects' 0.20895901322364807ms
+[NX Daemon Server] - 2024-05-01T06:15:29.504Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:15:29.625Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:15:29.911Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:15:30.071Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:15:30.127Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:15:35.144Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-05-01T06:15:35.144Z - [REQUEST]: src/app/app.component.spec.ts
+[NX Daemon Server] - 2024-05-01T06:15:35.144Z - [REQUEST]: 
+[NX Daemon Server] - 2024-05-01T06:15:35.188Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.9281250238418579ms
+[NX Daemon Server] - 2024-05-01T06:15:37.913Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:19:04.872Z - [WATCHER]: src/app/components/toolbar/toolbar.component.spec.ts was modified
+[NX Daemon Server] - 2024-05-01T06:19:04.873Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-05-01T06:19:04.873Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-05-01T06:19:04.873Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-05-01T06:19:04.873Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:19:04.873Z - Time taken for 'changed-projects' 0.10870799422264099ms
+[NX Daemon Server] - 2024-05-01T06:19:04.968Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:19:04.970Z - [WATCHER]: src/app/components/toolbar/toolbar.component.spec.ts was modified
+[NX Daemon Server] - 2024-05-01T06:19:04.970Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-05-01T06:19:04.970Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-05-01T06:19:04.970Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-05-01T06:19:04.970Z - Time taken for 'changed-projects' 0.033250004053115845ms
+[NX Daemon Server] - 2024-05-01T06:19:05.679Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:19:07.296Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:19:07.559Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:19:07.641Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:19:11.277Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-05-01T06:19:11.278Z - [REQUEST]: src/app/components/toolbar/toolbar.component.spec.ts
+[NX Daemon Server] - 2024-05-01T06:19:11.278Z - [REQUEST]: 
+[NX Daemon Server] - 2024-05-01T06:19:11.307Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.4209589958190918ms
+[NX Daemon Server] - 2024-05-01T06:19:12.945Z - [WATCHER]: src/app/components/toolbar/toolbar.component.spec.ts was modified
+[NX Daemon Server] - 2024-05-01T06:19:12.945Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-05-01T06:19:12.945Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-05-01T06:19:12.945Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-05-01T06:19:12.945Z - Time taken for 'changed-projects' 0.014625012874603271ms
+[NX Daemon Server] - 2024-05-01T06:19:12.946Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:19:13.183Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:19:17.404Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:19:19.346Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-05-01T06:19:19.346Z - [REQUEST]: src/app/components/toolbar/toolbar.component.spec.ts
+[NX Daemon Server] - 2024-05-01T06:19:19.346Z - [REQUEST]: 
+[NX Daemon Server] - 2024-05-01T06:19:19.371Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.24637502431869507ms
+[NX Daemon Server] - 2024-05-01T06:19:23.762Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:20:25.661Z - [WATCHER]: src/app/components/canvas/canvas.component.spec.ts was modified
+[NX Daemon Server] - 2024-05-01T06:20:25.663Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-05-01T06:20:25.664Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-05-01T06:20:25.664Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-05-01T06:20:25.664Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:20:25.665Z - Time taken for 'changed-projects' 0.20012500882148743ms
+[NX Daemon Server] - 2024-05-01T06:20:26.491Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:20:28.156Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:20:28.359Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:20:28.453Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:20:32.065Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-05-01T06:20:32.065Z - [REQUEST]: src/app/components/canvas/canvas.component.spec.ts
+[NX Daemon Server] - 2024-05-01T06:20:32.065Z - [REQUEST]: 
+[NX Daemon Server] - 2024-05-01T06:20:32.089Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.0768340229988098ms
+[NX Daemon Server] - 2024-05-01T06:20:36.815Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:20:36.994Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:22:10.504Z - [WATCHER]: src/app/app.component.spec.ts was modified
+[NX Daemon Server] - 2024-05-01T06:22:10.506Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-05-01T06:22:10.506Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-05-01T06:22:10.506Z - Handled FILE-WATCH-CHANGED. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-05-01T06:22:10.506Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:22:10.506Z - Time taken for 'changed-projects' 0.16083398461341858ms
+[NX Daemon Server] - 2024-05-01T06:22:11.371Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:22:11.509Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:22:11.738Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:22:16.908Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-05-01T06:22:16.908Z - [REQUEST]: src/app/app.component.spec.ts
+[NX Daemon Server] - 2024-05-01T06:22:16.908Z - [REQUEST]: 
+[NX Daemon Server] - 2024-05-01T06:22:16.945Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.2795419991016388ms
+[NX Daemon Server] - 2024-05-01T06:22:20.623Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:25:39.946Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:25:39.954Z - [WATCHER]: 0 file(s) created or restored, 1 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-05-01T06:25:39.954Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-05-01T06:25:39.954Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-05-01T06:25:39.954Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-05-01T06:25:39.954Z - Time taken for 'changed-projects' 0.2934589982032776ms
+[NX Daemon Server] - 2024-05-01T06:25:40.788Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:25:41.824Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:25:41.832Z - [WATCHER]: 0 file(s) created or restored, 3 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-05-01T06:25:41.832Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-05-01T06:25:41.832Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-05-01T06:25:41.832Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-05-01T06:25:41.832Z - Time taken for 'changed-projects' 0.026125013828277588ms
+[NX Daemon Server] - 2024-05-01T06:25:42.552Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:25:43.470Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:25:43.553Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:25:45.393Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:25:45.566Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:25:45.668Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:25:45.719Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-05-01T06:25:46.358Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-05-01T06:25:46.358Z - [REQUEST]: src/app/services/canvas.service.ts,src/app/components/canvas/canvas.component.ts,src/app/components/toolbar/toolbar.component.ts,src/app/app.component.scss
+[NX Daemon Server] - 2024-05-01T06:25:46.358Z - [REQUEST]: src/app/services/canvas.services.ts
+[NX Daemon Server] - 2024-05-01T06:25:46.384Z - Time taken for 'Load Nx Plugin: /Users/airat/WebstormProjects/CRYXXEN/simple-paint/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.1431249976158142ms
